@@ -29,7 +29,7 @@ When I'm not at work, I spend a fair bit of time [riding bikes](https://www.sfra
 
 * At Fehr & Peers, I led a first-of-its-kind study on the relationships between bike/ped infrastructure and emergency vehicle travel speeds. We used a variety of innovative spatial-statistical methods to make sense of a lot of complex, contradictory data.
 * Also at Fehr & Peers, I built an interactive web app (in Svelte, a JavaScript framework) that let users forecast the impacts of large-scale trends on vehicle travel and transit ridership.
-* At MTC, I helped wrangle large regionwide land use and travel forecasting models (and Python-based pre- and post-processing tools) to accurately ask and answer questions of regional policy importance.
+* At MTC, I helped wrangle large regionwide [land use](https://bayareametro.github.io/bayarea_urbansim/main/) and [travel](https://github.com/BayAreaMetro/travel-model-one) forecasting models (and Python-based pre- and post-processing tools) to accurately ask and answer questions of regional policy importance.
 * I developed a Python boot camp to help teach UC Berkeley planning graduate students the fundamentals of data engineering, analysis, and visualization in `pandas`.
 * I'm currently helping MTC's data team streamline the codebase behind [Vital Signs](https://vitalsigns.mtc.ca.gov/), a regional data dashboard.
 
@@ -47,13 +47,9 @@ When I'm not at work, I spend a fair bit of time [riding bikes](https://www.sfra
 * Transit (GTFS) data analysis and storytelling
 * Obscure literary references
 
->Where there are questions to be answered and data to illuminate them, Drew is there.
-
--- Excerpt of my speaker bio for a presentation I gave to [StreetLight Data](https://www.streetlightdata.com/)
-
 ## About Us
 
-I think we could work great together. Whether you're building something new and remarkable, or have tough, fascinating questions to answer, **I'd love to help.** Drop me a line at [drew@sourdoughdata.com](mailto:drew@sourdoughdata.com) and let's take it from there.
+Whether you're building something new and remarkable, or have tough, important questions to answer, **I'd love to help.** Drop me a line at [drew@sourdoughdata.com](mailto:drew@sourdoughdata.com) and let's take it from there.
 
 >The mind that is not baffled is not employed.
 
